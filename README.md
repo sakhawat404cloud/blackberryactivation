@@ -1,0 +1,2 @@
+# blackberryactivation
+BBM enterprise 
